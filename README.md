@@ -1,6 +1,6 @@
 hi my name is ravindra v and this is my git hub account
-i am interested in python,statistics,machine learning,deep learning, NLP, computer vision , AI and 
-i am currently learning data science
+i am interested in python,statistics,machine learning,deep learning, NLP, computer vision , AI 
+and i am currently learning data science
 i am looking to connect with certified data science people so that i can learn more
 
 <!---
